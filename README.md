@@ -1,4 +1,5 @@
 * [Twisted Network Programming Essentials, 2nd Edition][tnpe]
+  * The [tnpe](tnpe) dir contains (modified) example code from the book
 * [Twisted Documentation][twisted-docs]
 * [Twisted API docs][twisted-api]
 
